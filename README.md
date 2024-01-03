@@ -3,7 +3,7 @@
 ### THE PAPER!
 This repository accompanies the work ["Characterization of chromosomal integration sites for gene expression in thermoacidophilic archaea *Sulfolobus islandicus* M.16.4"](https://www.google.com).
 
-Add m_16_4 folders to code and data folder of ["CRISPR-COPIES"] repository (https://github.com/Zhao-Group/COPIES). 
+Add m_16_4 folders to code and data folder of ["CRISPR-COPIES"](https://github.com/Zhao-Group/COPIES) repository.
 
 Command for the CRISPR-COPIES pipeline to obtain genome-wide integration sites for *Sulfolobus islandicus* M.16.4- 
 ```
