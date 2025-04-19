@@ -1,7 +1,7 @@
 # Integration-Sites-M.16.4
 
 ### THE PAPER!
-This repository accompanies the work ["Characterization of chromosomal integration sites for gene expression in thermoacidophilic archaea *Sulfolobus islandicus* M.16.4"](https://www.google.com).
+This repository accompanies the work ["Discovery, characterization, and application of chromosomal integration sites in the hyperthermophilic crenarchaeon Sulfolobus islandicus"](https://www.biorxiv.org/content/10.1101/2025.03.16.643552v1.abstract).
 
 Add m_16_4 folders to code and data folder of ["CRISPR-COPIES"](https://github.com/Zhao-Group/COPIES) repository.
 
@@ -36,6 +36,6 @@ Scripts used for designing oligos for experimental validation of selected sites 
 <summary>If you using these scripts, please cite us:</summary>
 
 ```bibtex
-
+Boob, A. G., Zhang, C., Pan, Y., Zaidi, A., Whitaker, R., & Zhao, H. (2025). Discovery, characterization, and application of chromosomal integration sites in the hyperthermophilic crenarchaeon Sulfolobus islandicus. bioRxiv, 2025-03.
 ```
 </details>
